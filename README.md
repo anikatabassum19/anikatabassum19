@@ -1,4 +1,4 @@
-  Hi there 👋 This is Anika Tabassum Orchi
+ Hi there 👋 This is Anika Tabassum Orchi
 
 
 - 🔭 I’m currently the founder of thetechnoverge.com
