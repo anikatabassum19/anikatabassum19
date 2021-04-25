@@ -9,11 +9,7 @@
 - 📫 How to reach me: anika.meyel16@hotmail.com
 
 
-# My Skill Set
-<p float="left">
-  <img src="![download (3)](https://user-images.githubusercontent.com/58374595/116009847-889ae300-a63d-11eb-8d14-d06270843d8a.png)" width="100" />
-  <img src="![1_Y1hq9sHXG26Fyhys81z8rg](https://user-images.githubusercontent.com/58374595/116009855-92bce180-a63d-11eb-9fec-63bf0d9d5a89.png)" width="100" /> 
-</p>
+
 
 
 
