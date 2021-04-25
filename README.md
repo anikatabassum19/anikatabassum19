@@ -1,6 +1,5 @@
-Hi there 👋 This is Anika Tabassum Orchi
+  Hi there 👋 This is Anika Tabassum Orchi
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently the founder of thetechnoverge.com
 - 📫 I am also a Youtuber (The Technoverge)
