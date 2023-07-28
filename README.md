@@ -43,6 +43,7 @@ Here are some of the key skills that I possess:
 ### Hardware
 - Arduino
 - Raspberry Pi
+- ESP32
 
 ### User Interface Design
 - QT Designing
