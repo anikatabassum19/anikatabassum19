@@ -53,10 +53,6 @@ Here are some of the key skills that I possess:
 
 I enjoy working on both front-end and back-end development, and I'm always eager to take on new challenges and projects that allow me to expand my skillset.
 
-## Skill Progress
-
-![Skill Progress Chart](https://your-skill-progress-chart-url.com)
-
 Feel free to reach out to me if you have any questions, want to collaborate on exciting projects, or just want to say hello! You can contact me via email at [anika.meyel16@hotmail.com](mailto:anika.meyel16@hotmail.com).
 
 Let's connect and create amazing things together!
