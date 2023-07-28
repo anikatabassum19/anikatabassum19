@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-Hello! I am Anika Tabassum Orchi, a passionate Software Engineer with a love for learning and building innovative projects. I'm driven by my curiosity and enthusiasm for technology, always seeking to explore and push my boundaries in the world of software development.
+Assalamualaikum! I am Anika Tabassum Orchi, a passionate Software Engineer with a love for learning and building innovative projects. I'm driven by my curiosity and enthusiasm for technology, always seeking to explore and push my boundaries in the world of software development.
 
 ## About Me
 
