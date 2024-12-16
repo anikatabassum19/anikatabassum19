@@ -19,14 +19,10 @@ Here are some of the key skills that I possess:
 - JavaScript
 - Python
 - C++
-- HTML
-- CSS
+- Rust
 
 ### Frameworks & Libraries
-- React
-- React Native
-- Node.js
-- Express.js
+- Sveltekit
 - Django
 
 ### Database
@@ -39,9 +35,10 @@ Here are some of the key skills that I possess:
 - Firebase
 
 ### Hardware
-- Arduino
+- Arduino, STEM32
 - Raspberry Pi
 - ESP32
+- Jetson, Pixhawk
 
 ### User Interface Design
 - QT Designing
