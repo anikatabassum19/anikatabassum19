@@ -2,14 +2,13 @@
 
 ### Software Engineer
 
-Assalamualaikum! I am Anika Tabassum Orchi, a passionate Software Engineer with a love for learning and building innovative projects. I'm driven by my curiosity and enthusiasm for technology, always seeking to explore and push my boundaries in the world of software development.
+Assalamualaikum! I am Anika Tabassum Orchi, an Embedded System Engineer also a software developer with a love for learning and building innovative projects. I am also a You tuber with a channel named "Orchie," where I share knowledge and insights about programming and technology also diving deep into the fascinating fields of Neural Networks and Artificial Intelligence Development to contribute to cutting-edge technologies. I am currently leading the team of UIU Advanced Underwater Robotics and Automation Crew ( AURAC ), Ask me about anything related to my domain. I will be excited to discuss and share my knowledge.
 
 ## About Me
 
-- 🔭 I’m currently the founder of [orchimart.com](https://orchimart.com), where I buy sell IOT components and projects all over the country
+- 🔭 I am the founder and former CEO of [orchimart.com](https://orchimart.com), where I used to buy sell IOT components and projects all over the country
 - 📫 I am also a Youtuber with a channel named "Orchie," where I share knowledge and insights about programming and technology.
 - 🌱 I’m currently diving deep into the fascinating fields of Neural Networks and Artificial Intelligence Development to contribute to cutting-edge technologies.
-- 💬 Ask me about anything related to React, React-Native, JavaScript, Python, or MERN Stack. I'm always excited to discuss and share my knowledge with fellow developers.
 
 ## Skills
 
