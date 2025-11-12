@@ -18,7 +18,7 @@ Welcome! I'm a passionate Computer Science and Engineering student from **United
 
 ## 📫 Connect with me
 
-- Portfolio: [Orchi Portfolio](https://shakil-ahmed-resume.vercel.app/)  
+- Portfolio: [Orchi Portfolio]([https://shakil-ahmed-resume.vercel.app/](https://anikatabassumorchi.framer.website/))  
 - LinkedIn: [linkedin.com/in/orchie21](https://www.linkedin.com/in/orchie21/?originalSubdomain=bd)  
 - Email: aorchi201346@bscse.uiu.ac.bd  
 - GitHub: [github.com/anikatabassum19](https://github.com/anikatabassum19)  
