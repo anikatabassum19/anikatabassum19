@@ -10,7 +10,7 @@ Welcome! I'm a passionate Computer Science and Engineering student from **United
 
 - **Programming:** Python, C, C++, RUST, MATLAB  
 - **Embedded Systems & IoT:** Microcontrollers, Sensors, XBee RF Modules, Jetson, Pixhawk, Stm32 
-- **Robotics & Control:** ROVs, Prosthetic Arm Development, Servo & Motor Control  
+- **Robotics & Control:** ROVs, CanSat, Prosthetic Arm Development, Servo & Motor Control, UAV's
 - **AI & Data:** Machine Learning, Computer Vision, Edge Computing  
 - **Software & Tools:** PyQt6, OpenCV, SvelteKit  
 
